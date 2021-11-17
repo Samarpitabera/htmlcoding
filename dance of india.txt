@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>dance of India
+</title>
+</head>
+<BODY bgcolor= "yellow" link="black" vlink ="green">
+<FONT face ="Arial" color="maroon">
+<H2 align="center">dance of India</H2></FONT>
+<HR>
+<FONT face="Arial" color="red">
+There are many types of songs of in India. From those which are deeply religious in content to those which are sung   on most trivial happy occasions. Classical songs of India are usually spiritual in contents. Although it is often true also of  folk songs. 
+<TABLE align ="center" border = "2" width="250">
+<CAPTION>Songs of India</CAPTION>
+<TR>
+<TD>CLASSICAL Dances </TD>
+<TD>FOLK  Dances </TD>
+</TR>
+<TR>
+<TD>Bharatnatyam </TD>
+<TD>Dollu Kunita </TD>
+</TR>
+<TR>
+<TD>Kathak </TD>
+<TD>Chhau Dance </TD>
+</TR>
+<TR>
+<TD>ODISSI</TD>
+<TD>Dumhal</TD>
+</TR>
+<UL>
+<LI> Kuchipudi </LI>
+<LI>ODISSI </LI>
+<LI>satriya </LI>
+</UL>
+</HEAD>
+</HTML>
+
+ 
